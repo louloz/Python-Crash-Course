@@ -1,0 +1,8 @@
+In Python you can store data in variables.
+In Python you can work with numerical data.
+In Python you can work with string data.
+In Python you can use conditional statments.
+In Python you can use loops.
+In Python you can create classes.
+In Python you can create objects.
+In Python you can work with files.

@@ -1,0 +1,4 @@
+What is your name?: Louie Hello Louie!
+What is your name?: Lydia Hello Lydia!
+What is your name?: Sonic Hello Sonic!
+What is your name?: Pikachu Hello Pikachu!
